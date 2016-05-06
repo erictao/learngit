@@ -5,3 +5,4 @@ Gis is funny.
 this line is edited in dev branch
 this line is added in master branch
 this line is added in feature 1 branch
+added in feature2
